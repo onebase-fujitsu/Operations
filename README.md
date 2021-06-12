@@ -6,3 +6,6 @@
 
 ## 公開の目的
 ONEbaseに興味を持って頂いた方に、ONEbaseで働くイメージを持っていただく目的で公開しています。
+
+## index
+- [Slack運用ルール](https://github.com/Onebase-Fujitsu/Operations/blob/main/slack_rules.md)
