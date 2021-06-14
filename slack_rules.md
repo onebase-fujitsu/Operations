@@ -151,7 +151,7 @@ all-XXX | 全体周知 | プロジェクトに関わる全員が入るグルー�
 team-XXX | 業務連絡 | チーム内での業務のコミュニケーション | team-dev, team-design, team-po
 study-XXX | 勉強会系チャネル | 輪読会など | study-tech, study-agile
 alert-XXX | アラート通知 | メッセージ監視など | alert-prd, alart-std
-dev-XXX | 機能開発 | 機能のリサーチや開発に関するトピック | dev-口座設定, dev-手数料, dev-UX
+feature-XXX | 機能開発 | 機能のリサーチや開発に関するトピック | feature-口座設定, feature-手数料, feature-UX
 release-XXX | リリース管理 | リリースに関するタイムチャートや作業報告など | release-20210614
 help-XXX | ヘルプ | 困っていることがあればその都度チャネルを作って聞いてみましょう。用済みになったら都度アーカイブも忘れずに | help-金融用語, help-programinng
 incident-XXX | 緊急対応 | インシデントについて、XXXにはインシデント番号などを振り、インシデント毎にチャネルを作成するようにしてください。用済みになったら都度アーカイブ | incident-WN123456
